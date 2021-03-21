@@ -3,7 +3,7 @@ Contact form made with react and hosted in Firebase
 
 ![](demo_form.gif.gif)
 
-## This code takes the user data and stores it in the Firebase Real Time Databse , this can be useful to run Ad campaigns and getting client details
+## This code takes the user data and stores it in the Firebase Real Time Database, this can be useful to run Ad campaigns and getting client details
 This Code is beginner friendly!
 
 ### How to run the code?
