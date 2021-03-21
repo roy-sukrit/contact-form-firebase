@@ -4,6 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
+/.firebase
+/.firebaserc
+/firebase.json
+/database.rules.json
+/build
 
 # testing
 /coverage
